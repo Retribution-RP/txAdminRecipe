@@ -54,7 +54,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/safecracker
     ref: main
-    src: https://github.com/qbcore-framework/safecracker
+    src: https://github.com/Retribution-RP/safecracker
 
   - action: download_github
     dest: ./resources/[standalone]/screenshot-basic
@@ -64,7 +64,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/progressbar
     ref: main
-    src: https://github.com/qbcore-framework/progressbar
+    src: https://github.com/Retribution-RP/progressbar
 
   - action: download_github
     dest: ./resources/[standalone]/interact-sound
