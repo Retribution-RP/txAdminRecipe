@@ -195,12 +195,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-weed
     ref: main
-    src: https://github.com/qbcore-framework/qb-weed
+    src: https://github.com/Retribution-RP/qb-weed
 
   - action: download_github
     dest: ./resources/[qb]/qb-lapraces
     ref: main
-    src: https://github.com/qbcore-framework/qb-lapraces
+    src: https://github.com/Retribution-RP/qb-lapraces
 
   - action: download_github
     dest: ./resources/[qb]/qb-inventory
@@ -225,7 +225,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclefailure
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehiclefailure
+    src: https://github.com/Retribution-RP/qb-vehiclefailure
 
   - action: waste_time # prevent github throttling
     seconds: 10
