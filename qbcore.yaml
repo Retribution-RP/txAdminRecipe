@@ -248,7 +248,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-policejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-policejob
+    src: https://github.com/Retribution-RP/qb-policejob
 
   - action: download_github
     dest: ./resources/[qb]/qb-traphouse
@@ -263,7 +263,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclekeys
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehiclekeys
+    src: https://github.com/Retribution-RP/qb-vehiclekeys
 
   - action: download_github
     dest: ./resources/[qb]/qb-mechanicjob
@@ -338,7 +338,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-cityhall
     ref: main
-    src: https://github.com/qbcore-framework/qb-cityhall
+    src: https://github.com/Retribution-RP/qb-cityhall
 
   - action: download_github
     dest: ./resources/[qb]/qb-truckrobbery
