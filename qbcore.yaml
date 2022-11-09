@@ -318,17 +318,17 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-skillbar
     ref: main
-    src: https://github.com/qbcore-framework/qb-skillbar
+    src: https://github.com/Retribution-RP/qb-skillbar
 
   - action: download_github
     dest: ./resources/[qb]/qb-smallresources
     ref: main
-    src: https://github.com/qbcore-framework/qb-smallresources
+    src: https://github.com/Retribution-RP/qb-smallresources
 
   - action: download_github
     dest: ./resources/[qb]/qb-recyclejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-recyclejob
+    src: https://github.com/Retribution-RP/qb-recyclejob
 
   - action: download_github
     dest: ./resources/[qb]/qb-diving
