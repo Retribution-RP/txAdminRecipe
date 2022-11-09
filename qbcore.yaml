@@ -406,42 +406,42 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-clothing
     ref: main
-    src: https://github.com/qbcore-framework/qb-clothing
+    src: https://github.com/Retribution-RP/qb-clothing
 
   - action: download_github
     dest: ./resources/[qb]/qb-hotdogjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-hotdogjob
+    src: https://github.com/Retribution-RP/qb-hotdogjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-doorlock
     ref: main
-    src: https://github.com/qbcore-framework/qb-doorlock
+    src: https://github.com/Retribution-RP/qb-doorlock
 
   - action: download_github
     dest: ./resources/[qb]/qb-garbagejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-garbagejob
+    src: https://github.com/Retribution-RP/qb-garbagejob
 
   - action: download_github
     dest: ./resources/[qb]/qb-drugs
     ref: main
-    src: https://github.com/qbcore-framework/qb-drugs
+    src: https://github.com/Retribution-RP/qb-drugs
 
   - action: download_github
     dest: ./resources/[qb]/qb-shops
     ref: main
-    src: https://github.com/qbcore-framework/qb-shops
+    src: https://github.com/Retribution-RP/qb-shops
 
   - action: download_github
     dest: ./resources/[qb]/qb-lockpick
     ref: main
-    src: https://github.com/qbcore-framework/qb-lockpick
+    src: https://github.com/Retribution-RP/qb-lockpick
 
   - action: download_github
     dest: ./resources/[qb]/qb-interior
     ref: main
-    src: https://github.com/qbcore-framework/qb-interior
+    src: https://github.com/Retribution-RP/qb-interior
 
   - action: download_github
     dest: ./resources/[qb]/qb-menu
@@ -451,12 +451,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-input
     ref: main
-    src: https://github.com/qbcore-framework/qb-input
+    src: https://github.com/Retribution-RP/qb-input
 
   - action: download_github
     dest: ./resources/[qb]/qb-loading
     ref: main
-    src: https://github.com/qbcore-framework/qb-loading
+    src: https://github.com/Retribution-RP/qb-loading
 
   # Clean up
   - action: remove_path
