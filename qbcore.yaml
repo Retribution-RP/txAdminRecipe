@@ -298,12 +298,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-towjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-towjob
+    src: https://github.com/Retribution-RP/qb-towjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-streetraces
     ref: main
-    src: https://github.com/qbcore-framework/qb-streetraces
+    src: https://github.com/Retribution-RP/qb-streetraces
 
   - action: download_github
     dest: ./resources/[qb]/qb-storerobbery
