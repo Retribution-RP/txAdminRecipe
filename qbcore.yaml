@@ -74,7 +74,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/mhacking
     ref: main
-    src: https://github.com/qbcore-framework/mhacking
+    src: https://github.com/Retribution-RP/mhacking
 
   - action: download_github
     dest: ./resources/[standalone]/connectqueue
@@ -89,12 +89,12 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/PolyZone
     ref: master
-    src: https://github.com/qbcore-framework/PolyZone
+    src: https://github.com/Retribution-RP/PolyZone
 
   - action: download_github
     dest: ./resources/[standalone]/LegacyFuel
     ref: master
-    src: https://github.com/qbcore-framework/LegacyFuel
+    src: https://github.com/Retribution-RP/LegacyFuel
 
     # VOICE
   - action: download_github
@@ -160,7 +160,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclesales
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehiclesales
+    src: https://github.com/Retribution-RP/qb-vehiclesales
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehicleshop
