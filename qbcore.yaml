@@ -41,7 +41,7 @@ tasks:
 
   - action: download_file
     path: ./tmp/menuv.zip
-    url: hhttps://github.com/ThymonA/menuv/releases/download/v1.4.1/menuv_v1.4.1.zip
+    url: https://github.com/ThymonA/menuv/releases/download/v1.4.1/menuv_v1.4.1.zip
   - action: unzip
     dest: ./resources/[standalone]/menuv
     src: ./tmp/menuv.zip
@@ -49,7 +49,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/bob74_ipl
     ref: master
-    src: https://github.com/qbcore-framework/bob74_ipl
+    src: https://github.com/Retribution-RP/bob74_ipl
 
   - action: download_github
     dest: ./resources/[standalone]/safecracker
