@@ -396,12 +396,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-commandbinding
     ref: main
-    src: https://github.com/qbcore-framework/qb-commandbinding
+    src: https://github.com/Retribution-RP/qb-commandbinding
 
   - action: download_github
     dest: ./resources/[qb]/qb-banking
     ref: main
-    src: https://github.com/qbcore-framework/qb-banking
+    src: https://github.com/Retribution-RP/qb-banking
 
   - action: download_github
     dest: ./resources/[qb]/qb-clothing
