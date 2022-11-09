@@ -142,7 +142,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-multicharacter
     ref: main
-    src: https://github.com/qbcore-framework/qb-multicharacter
+    src: https://github.com/Retribution-RP/qb-multicharacter
 
   - action: download_github
     dest: ./resources/[qb]/qb-target
@@ -333,7 +333,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-diving
     ref: main
-    src: https://github.com/qbcore-framework/qb-diving
+    src: https://github.com/Retribution-RP/qb-diving
 
   - action: download_github
     dest: ./resources/[qb]/qb-cityhall
