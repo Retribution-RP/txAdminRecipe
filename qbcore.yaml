@@ -313,7 +313,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-spawn
     ref: main
-    src: https://github.com/qbcore-framework/qb-spawn
+    src: https://github.com/Retribution-RP/qb-spawn
 
   - action: download_github
     dest: ./resources/[qb]/qb-skillbar
