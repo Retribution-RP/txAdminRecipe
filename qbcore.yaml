@@ -180,7 +180,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-atms
     ref: main
-    src: https://github.com/qbcore-framework/qb-atms
+    src: https://github.com/Retribution-RP/qb-atms
 
   - action: download_github
     dest: ./resources/[qb]/qb-hud
