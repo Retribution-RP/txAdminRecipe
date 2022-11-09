@@ -215,7 +215,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-garages
     ref: main
-    src: https://github.com/qbcore-framework/qb-garages
+    src: https://github.com/Retribution-RP/qb-garages
 
   - action: download_github
     dest: ./resources/[qb]/qb-ambulancejob
@@ -446,7 +446,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-menu
     ref: main
-    src: https://github.com/qbcore-framework/qb-menu
+    src: https://github.com/Retribution-RP/qb-menu
 
   - action: download_github
     dest: ./resources/[qb]/qb-input
