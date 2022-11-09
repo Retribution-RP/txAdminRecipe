@@ -233,17 +233,17 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-radialmenu
     ref: main
-    src: https://github.com/qbcore-framework/qb-radialmenu
+    src: https://github.com/Retribution-RP/qb-radialmenu
 
-  - action: download_github
-    dest: ./resources/[qb]/qb-crypto
-    ref: main
-    src: https://github.com/qbcore-framework/qb-crypto
+  #- action: download_github
+  #  dest: ./resources/[qb]/qb-crypto
+  #  ref: main
+  #  src: https://github.com/qbcore-framework/qb-crypto
 
   - action: download_github
     dest: ./resources/[qb]/qb-weathersync
     ref: main
-    src: https://github.com/qbcore-framework/qb-weathersync
+    src: https://github.com/Retribution-RP/qb-weathersync
 
   - action: download_github
     dest: ./resources/[qb]/qb-policejob
@@ -258,7 +258,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-apartments
     ref: main
-    src: https://github.com/qbcore-framework/qb-apartments
+    src: https://github.com/Retribution-RP/qb-apartments
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclekeys
@@ -268,17 +268,17 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-mechanicjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-mechanicjob
+    src: https://github.com/Retribution-RP/qb-mechanicjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-phone
     ref: main
-    src: https://github.com/qbcore-framework/qb-phone
+    src: https://github.com/Retribution-RP/qb-phone
 
   - action: download_github
     dest: ./resources/[qb]/qb-vineyard
     ref: main
-    src: https://github.com/qbcore-framework/qb-vineyard
+    src: https://github.com/Retribution-RP/qb-vineyard
 
   - action: download_github
     dest: ./resources/[qb]/qb-weapons
@@ -288,12 +288,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-scrapyard
     ref: main
-    src: https://github.com/qbcore-framework/qb-scrapyard
+    src: https://github.com/Retribution-RP/qb-scrapyard
 
   - action: download_github
     dest: ./resources/[qb]/qb-tunerchip
     ref: main
-    src: https://github.com/qbcore-framework/qb-tunerchip
+    src: https://github.com/Retribution-RP/qb-tunerchip
 
   - action: download_github
     dest: ./resources/[qb]/qb-towjob
