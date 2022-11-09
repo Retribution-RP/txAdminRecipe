@@ -49,7 +49,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/bob74_ipl
     ref: master
-    src: https://github.com/qbcore-framework/bob74_ipl
+    src: https://github.com/Retribution-RP/bob74_ipl
 
   - action: download_github
     dest: ./resources/[standalone]/safecracker
@@ -79,12 +79,12 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/connectqueue
     ref: master
-    src: https://github.com/qbcore-framework/connectqueue
+    src: https://github.com/Retribution-RP/connectqueue
 
   - action: download_github
     dest: ./resources/[standalone]/dpemotes
     ref: master
-    src: https://github.com/qbcore-framework/dpemotes
+    src: https://github.com/Retribution-RP/dpemotes
 
   - action: download_github
     dest: ./resources/[standalone]/PolyZone
