@@ -69,7 +69,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/interact-sound
     ref: master
-    src: https://github.com/qbcore-framework/interact-sound
+    src: https://github.com/Retribution-RP/interact-sound
 
   - action: download_github
     dest: ./resources/[standalone]/mhacking
