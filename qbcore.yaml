@@ -210,7 +210,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-houses
     ref: main
-    src: https://github.com/qbcore-framework/qb-houses
+    src: https://github.com/Retribution-RP/qb-houses
 
   - action: download_github
     dest: ./resources/[qb]/qb-garages
@@ -253,7 +253,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-traphouse
     ref: main
-    src: https://github.com/qbcore-framework/qb-traphouse
+    src: https://github.com/Retribution-RP/qb-traphouse
 
   - action: download_github
     dest: ./resources/[qb]/qb-apartments
@@ -308,7 +308,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-storerobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-storerobbery
+    src: https://github.com/Retribution-RP/qb-storerobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-spawn
