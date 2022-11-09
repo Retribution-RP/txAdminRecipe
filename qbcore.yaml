@@ -205,7 +205,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-inventory
     ref: main
-    src: https://github.com/qbcore-framework/qb-inventory
+    src: https://github.com/Retribution-RP/qb-inventory
 
   - action: download_github
     dest: ./resources/[qb]/qb-houses
@@ -283,7 +283,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-weapons
     ref: main
-    src: https://github.com/qbcore-framework/qb-weapons
+    src: https://github.com/Retribution-RP/qb-weapons
 
   - action: download_github
     dest: ./resources/[qb]/qb-scrapyard
