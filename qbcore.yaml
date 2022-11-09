@@ -185,12 +185,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-hud
     ref: main
-    src: https://github.com/qbcore-framework/qb-hud
+    src: https://github.com/Retribution-RP/qb-hud
 
   - action: download_github
     dest: ./resources/[qb]/qb-management
     ref: main
-    src: https://github.com/qbcore-framework/qb-management
+    src: https://github.com/Retribution-RP/qb-management
 
   - action: download_github
     dest: ./resources/[qb]/qb-weed
