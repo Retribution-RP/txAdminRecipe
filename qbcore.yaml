@@ -343,32 +343,32 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-truckrobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-truckrobbery
+    src: https://github.com/Retribution-RP/qb-truckrobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-pawnshop
     ref: main
-    src: https://github.com/qbcore-framework/qb-pawnshop
+    src: https://github.com/Retribution-RP/qb-pawnshop
 
   - action: download_github
     dest: ./resources/[qb]/qb-taxijob
     ref: main
-    src: https://github.com/qbcore-framework/qb-taxijob
+    src: https://github.com/Retribution-RP/qb-taxijob
 
   - action: download_github
     dest: ./resources/[qb]/qb-busjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-busjob
+    src: https://github.com/Retribution-RP/qb-busjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-newsjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-newsjob
+    src: https://github.com/Retribution-RP/qb-newsjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-jewelery
     ref: main
-    src: https://github.com/qbcore-framework/qb-jewelery
+    src: https://github.com/Retribution-RP/qb-jewelery
 
   - action: waste_time # prevent github throttling
     seconds: 10
@@ -376,22 +376,22 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-bankrobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-bankrobbery
+    src: https://github.com/Retribution-RP/qb-bankrobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-truckerjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-truckerjob
+    src: https://github.com/Retribution-RP/qb-truckerjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-keyminigame
     ref: main
-    src: https://github.com/qbcore-framework/qb-keyminigame
+    src: https://github.com/Retribution-RP/qb-keyminigame
 
   - action: download_github
     dest: ./resources/[qb]/qb-fitbit
     ref: main
-    src: https://github.com/qbcore-framework/qb-fitbit
+    src: https://github.com/Retribution-RP/qb-fitbit
 
   - action: download_github
     dest: ./resources/[qb]/qb-commandbinding
