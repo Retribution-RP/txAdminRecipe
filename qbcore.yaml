@@ -127,7 +127,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-core
     ref: main
-    src: https://github.com/qbcore-framework/qb-core
+    src: https://github.com/Retribution-RP/qb-core
 
   - action: download_github
     dest: ./resources/[qb]/qb-scoreboard
