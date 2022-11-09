@@ -137,7 +137,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-adminmenu
     ref: main
-    src: https://github.com/qbcore-framework/qb-adminmenu
+    src: https://github.com/Retribution-RP/qb-adminmenu
 
   - action: download_github
     dest: ./resources/[qb]/qb-multicharacter
@@ -147,7 +147,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-target
     ref: main
-    src: https://github.com/qbcore-framework/qb-target
+    src: https://github.com/Retribution-RP/qb-target
 
   - action: waste_time # prevent github throttling
     seconds: 10
